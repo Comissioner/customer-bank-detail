@@ -1,0 +1,12 @@
+1. For the above problem Capture the requirements of the client and document them, also review it with
+acceptance criteria.
+2. Identify and Document at least two associate risks for the above case study
+3. Create user stories and draw UML diagram for the above requirements
+4. Write the test suite for the above requirements
+Solution:
+-serach for jira software in web browser
+-click on the link
+-the above page will display
+-login in with your email and your site adress if you don’t have your account in jira the click on get it free and
+create account
+-click on agree
